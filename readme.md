@@ -1,3 +1,5 @@
+> https://github.com/bws9000/web3modal-angular/tree/V2/examples/angular
+
 > Looking for v1.x readme? It is available on [V1 Branch](https://github.com/WalletConnect/web3modal/tree/V1)
 
 ### 📚 [Documentation](https://docs.walletconnect.com/2.0/web3modal/about)
